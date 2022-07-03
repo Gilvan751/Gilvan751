@@ -27,7 +27,7 @@
 - A linguagem de programação nada mais é do que a forma como conversamos com as máquinas...
 
 ### Alguns projetos:
-- [Criando Infinite Scroll - React Native](https://youtu.be/TjkFGrjkXfc)<br/>
+- [ Maratonas Academy](https://github.com/Gilvan751/maratona-academy-javascript)<br/>
 - [O que estudar para se tornar um desenvolvedor front-end? 2021](https://youtu.be/Ab-kGzlCCWI)<br/>
 - [Criando interface login do Instagram - React Native](https://youtu.be/pSV9Wh_p2Cg)<br/>
 - [Aprendendo e conhecendo FIGMA - UI Design](https://youtu.be/KRCfX25yFf4)<br/>
