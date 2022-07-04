@@ -28,7 +28,7 @@
 
 ### Alguns projetos:
 - [ Maratonas Academy](https://github.com/Gilvan751/maratona-academy-javascript)<br/>
-- [O que estudar para se tornar um desenvolvedor front-end? 2021](https://youtu.be/Ab-kGzlCCWI)<br/>
+- [Página da Nike](https://github.com/Gilvan751/Pagina-Nike)<br/>
 - [Criando interface login do Instagram - React Native](https://youtu.be/pSV9Wh_p2Cg)<br/>
 - [Aprendendo e conhecendo FIGMA - UI Design](https://youtu.be/KRCfX25yFf4)<br/>
 
